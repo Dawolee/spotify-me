@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+
+.text,
+.text-header {
+  font-family: 'Gaegu', cursive;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.fit-images {
+  width: 50%;
+  height: 50%;
+}
+
+.spotify {
+  color: #84bd00;
+}
+
+p {
+  font-size: 1.3em;
+}
+
+#intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 20%;
+  margin-top: 20%;
+  flex-wrap: wrap;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#my-picture {
+  min-width: 50%;
+}
+
+.me {
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+#about-me {
+  margin-bottom: 5%;
+}
+
+.description {
+  font-size: 1.3em;
+  width: 80%;
+  margin: 0 !important;
+}
+
+.content {
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.content-image {
+  width: 50%;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.content-image:hover {
+  opacity: 0.7;
+}
+
+.content-description {
+  width: 50%;
+}
+
+#tech-stack {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10%;
+  flex-wrap: wrap;
+}
+
+.paragraph-container {
+  flex: 1;
+  min-width: 45%;
+  margin-bottom: 5%;
+}
+
+.paragraph {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#my-graduation {
+  min-width: 500px;
+  width: 50%;
+  flex: 1;
+}
+
+.graduation {
+  width: 50%;
+  height: auto;
+  border-radius: 5%;
+  border: 2px solid black;
+}
+
+#guitar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10%;
+  flex-wrap: wrap;
+}
+
+.yt-video {
+  min-width: 400px;
+  flex: 1;
+  padding: 50px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-bottom: 10%;
+}
+
+.pictures {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.modal-text {
+  width: 45% !important;
+  font-size: 1em;
+}
+
+.reasons-text {
+  font-family: 'Gaegu', cursive;
+  text-align: left;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+.reasons {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+
+li {
+  font-size: 1.3em;
+  margin-bottom: 3%;
+  text-align: left;
+}
+
+#contact {
+  margin-top: 10%;
+  margin-bottom: 0;
+  background-color: #1db954;
+}
+
+.social-media {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #191414;
+  margin-top: 3%;
+}
+
+.icons {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+#hobbies {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 10%;
+  flex-wrap: wrap;
+}
+
+.hobby-images {
+  width: 60%;
+  height: auto;
+  border-radius: 5%;
+  border: 2px solid black;
+}
+
+.hobby {
+  min-width: 33%;
+  width: 33%;
+}
+
+.hobby-paragraph {
+  min-width: 33%;
+  width: 33%;
+}
+
+#feature-proposal {
+  margin-top: 15%;
+}
+
+#feature-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 5%;
+  flex-wrap: wrap;
+}
+
+#demo-gif {
+  min-width: 500px;
+  flex: 1;
+  padding: 20px;
+}
+
+.gif {
+  width: 100%;
+  height: auto;
+  border-radius: 5%;
+  border: 2px solid black;
+}
+
+#feature-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 10%;
+}
+
+#demo-jpeg {
+  min-width: 500px;
+  width: 50%;
+  flex: 1;
+}
+
+.jpeg {
+  width: 80%;
+  height: auto;
+  border-radius: 5%;
+  border: 2px solid black;
+}
+
+.contact-header {
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}

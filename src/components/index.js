@@ -1,0 +1,5 @@
+export { default as Intro } from './Intro'
+export { default as AboutMe } from './AboutMe'
+export { default as BodyCreator } from './BodyCreator'
+export { default as ContactMe } from './ContactMe'
+export { default as FeatureProposal } from './FeatureProposal'
