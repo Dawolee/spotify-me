@@ -11,7 +11,7 @@ export default class ContactMe extends Component {
         <p className="paragraph">or by phone at 917-446-4667</p>
         <a href="https://spotify-stage-two.herokuapp.com/" target="_blank">
           <p className="paragraph">
-            You can also check out the calenar app I made for the TTP process
+            You can also check out the calendar app I made for the TTP process
             here!
           </p>
         </a>
