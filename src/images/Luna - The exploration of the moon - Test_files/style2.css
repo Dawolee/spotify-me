@@ -1,0 +1,25 @@
+.hero {
+  flex-grow: 1;
+}
+
+.hero-image {
+  width: 50%;
+}
+
+.hero-images-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hero-unit-final-frontier {
+  width: 500px;
+}
+
+.hero-unit-moon-exploration {
+  width: 500px;
+}
+
+.hero-url {
+  width: 100%;
+  text-align: center;
+}
